@@ -1,6 +1,6 @@
 # HexR-Developer-Tutorial-MRTK
  
-# HexR Unity Integration (Uses Open XR) ℹ️
+# HexR Unity Integration (Uses Open XR and MRTK 3) ℹ️
 
 ## Installation
 
@@ -11,8 +11,6 @@
 ### Steps to Get Started:
 1. **Clone this repository:**
    https://github.com/MicrotubeTechnologies/HexR-developer-tutorial-XR
-
-2. **Open the HexR Developer Tutorial project in Unity.**
 
 ---
 
